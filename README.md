@@ -10,15 +10,16 @@
 output:dset and model
   
 ## run
-
- -train
-    ---source: source domain, choose one: ruijin, chip, cars, fc 
+- train
+    -source: source domain, choose one: ruijin, chip, cars, fc    
     
-    ---target: target domain, choose one: ruijin, chip, cars, fc, ec, nm 
+    -target: target domain, choose one: ruijin, chip, cars, fc, ec, nm 
     
-    ---alignment: If use domain alignment:True; Otherwise: false   
+    -alignment: If use domain alignment:True; Otherwise: false
     
-    ---aseparation: If use separation:True; Otherwise: false   
+    ---aseparation: If use separation:True; Otherwise: false 
+    
+  
  ```
  python main.py  --source  ruijin  --target  chip --alignment True --separation  True  --log_file logs/log.txt --status train
  ```
