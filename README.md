@@ -3,7 +3,7 @@
     - For example, in the path './data/chip/ruijin', the source domain is chip and the target domain is ruijin.
 
 ## embedding
-- ctd.50.vec download link :https://pan.baidu.com/share/init?surl=Uj97799tGjdET_vbdkW7tQ，password ：vgwi
+- ctd.50.vec download link :https://pan.baidu.com/share/init?surl=Uj97799tGjdET_vbdkW7tQ password ：vgwi
     -put ctd.50.vec to path: data/
 
 ## output
