@@ -12,13 +12,13 @@ output:dset and model
 ## run
 - train  
 
-    -source: source domain, choose one: ruijin, chip, cars, fc    
+    -**source**: source domain, choose one in ruijin, chip, cars, fc    
     
-    -target: target domain, choose one: ruijin, chip, cars, fc, ec, nm 
+    -**target**: target domain, choose one in  ruijin, chip, cars, fc, ec, nm 
     
-    -alignment: If use domain alignment:True; Otherwise: false
+    -**alignment**: If use domain alignment:True; Otherwise: false
     
-    -aseparation: If use separation:True; Otherwise: false 
+    -**aseparation**: If use separation:True; Otherwise: false 
     
   
  ```
