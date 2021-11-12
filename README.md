@@ -17,7 +17,7 @@ output:dset and model
     
     -alignment: If use domain alignment:True; Otherwise: false
     
-    ---aseparation: If use separation:True; Otherwise: false 
+    -aseparation: If use separation:True; Otherwise: false 
     
   
  ```
