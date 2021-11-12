@@ -10,7 +10,6 @@
 output:dset and model
   
 ## run
-- train  
 
     -**source**: source domain, choose one in ruijin, chip, cars, fc    
     
